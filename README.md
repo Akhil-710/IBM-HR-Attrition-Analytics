@@ -1,5 +1,5 @@
 # IBM-HR-Attrition-Analytics
-# HR Workforce Analytics & Employee Attrition Dashboard
+
 
 ## 📌 Project Overview
 
